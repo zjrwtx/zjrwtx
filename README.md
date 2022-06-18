@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=zjrwtx&show_icons=true)
 
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=zjrwtx&theme=xcode" /> </div>
