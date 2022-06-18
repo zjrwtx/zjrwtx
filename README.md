@@ -84,8 +84,6 @@
 
 
 
-<!-- Dynamic Quotes -->
-<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
 
 <!-- GitHub奖杯🏆 -->
 <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
@@ -98,12 +96,29 @@
 </div>
 <br>
 
+  
+</td> 
+</tr>
+</table>
+
+
+
+<!-- GitHub Activity Graph -->
+<table align="center">
+  <tr>
+    <td colspan="2">
+      <img src="https://activity-graph.herokuapp.com/graph?username=zjrwtx&theme=xcode&bg_color=FF000000&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+
 <!-- 最近博客和豆瓣动态 -->
 <table align="center">
 <tr>
 <td valign="top">    
 
-### 🤹‍♀️ <a href="https://sunguoqi.com/" target="_blank">Recent Blog</a>
+### 🤹‍♀️ <a href="https://sunguoqi.com/" target="_blank">更新日志</a>
   
 <!-- START_SECTION:blog -->
 * <a href='https://sunguoqi.com/posts/20220225.html' target='_blank'>人生21岁，版本更新日志！</a> - 2022-02-25
@@ -126,22 +141,4 @@
 * <a href='https://book.douban.com/subject/35582002/' target='_blank'>想读我的灵魂骑在纸背上</a> - 2021-11-12
 * <a href='http://movie.douban.com/subject/24529353/' target='_blank'>想看绝地逃亡</a> - 2021-03-07
 <!-- END_SECTION:douban -->
-  
-</td> 
-</tr>
-</table>
-
-
-
-
-<!-- GitHub Activity Graph -->
-<table align="center">
-  <tr>
-    <td colspan="2">
-      <img src="https://activity-graph.herokuapp.com/graph?username=zjrwtx&theme=xcode&bg_color=FF000000&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
-
 
