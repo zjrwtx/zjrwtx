@@ -34,9 +34,9 @@
 
 <!-- 比较好的开源项目卡片 -->
 <div align="center">
-<a href="https://github.com/sun0225SUN/Awesome-Love-Code">
+<a href="https://github.com/zjrwtx/mycsnotes/blob/main/index.md">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&repo=mycsnotes&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-<a href="https://github.com/sun0225SUN/Student-Data-Vision">
+<a href="https://github.com/zjrwtx/myphotos">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&repo=myphotos&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
 
