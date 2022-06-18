@@ -113,32 +113,25 @@
 </table>
 
 
-<!-- 最近博客和豆瓣动态 -->
+<!-- 最近更新 -->
 <table align="center">
 <tr>
 <td valign="top">    
 
-### 🤹‍♀️ <a href="https://sunguoqi.com/" target="_blank">更新日志</a>
+### 🤹‍♀️ <a href="#" target="_blank">更新日志</a>
   
 <!-- START_SECTION:blog -->
-* <a href='https://sunguoqi.com/posts/20220225.html' target='_blank'>人生21岁，版本更新日志！</a> - 2022-02-25
-* <a href='https://sunguoqi.com/posts/fiddler.html' target='_blank'>我终于学废用Fiddler抓包了！</a> - 2022-01-24
-* <a href='https://sunguoqi.com/posts/4243.html' target='_blank'>零基础快速上手云服务器</a> - 2022-01-09
-* <a href='https://sunguoqi.com/posts/33414.html' target='_blank'>给GitHub首页添加一个有趣的贪吃蛇小动画</a> - 2022-01-08
-* <a href='https://sunguoqi.com/posts/cuiqingcai.html' target='_blank'>21年终总结&&关于我自学爬虫的点滴经历</a> - 2021-12-31
+* <a href='#' target='_blank'>2022-6-18创建此页面当做我的博客</a> - 2022-02-25
+
 <!-- END_SECTION:blog -->
   
 </td>
     
 <td valign="top">
   
-### 🤾‍♂️ <a href="https://www.douban.com/people/sun0225SUN/" target="_blank">Funny Soul</a>
+### 🤾‍♂️ <a href="#" target="_blank"></a>
 
 <!-- START_SECTION:douban -->
-* <a href='https://book.douban.com/subject/35681856/' target='_blank'>读过Python3网络爬虫开发实战 第2版</a> - 2021-12-31
-* <a href='https://book.douban.com/subject/6082808/' target='_blank'>想读百年孤独</a> - 2021-11-28
-* <a href='https://music.douban.com/subject/35624611/' target='_blank'>想听光亮</a> - 2021-11-12
-* <a href='https://book.douban.com/subject/35582002/' target='_blank'>想读我的灵魂骑在纸背上</a> - 2021-11-12
-* <a href='http://movie.douban.com/subject/24529353/' target='_blank'>想看绝地逃亡</a> - 2021-03-07
+
 <!-- END_SECTION:douban -->
 
