@@ -5,13 +5,13 @@
   </a>
 </h1>
 
-<!-- git图片 -->
+<!-- 敲代码的图片 -->
 <div align="center" ><img order-radius="100px" src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fi0.hdslb.com%2Fbfs%2Farticle%2Fdb9205269db889f8512dcdfc1c1e273f2e19a4fa.gif&refer=http%3A%2F%2Fi0.hdslb.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1658131306&t=6dfebc0779ba0c31daa3357c2cd09840"/></div>
 <br>
 
 <!-- 个人资料徽标 -->
 <div align="center">
-  <a href="https://sunguoqi.com/"><img src="https://img.shields.io/badge/mycsnotes-%E6%88%91%E7%9A%84%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-blue)"></a>&emsp;
+  <a href="https://github.com/zjrwtx/mycsnotes/blob/main/index.md"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
   <a href="https://twitter.com/sun0225SUN/"><img src="https://img.shields.io/badge/twitter-%E6%8E%A8%E7%89%B9-blue"></a>&emsp;
   <a href="https://www.facebook.com/profile.php?id=100070064104265/"><img src="https://img.shields.io/badge/facebook-%E8%84%B8%E4%B9%A6-003472"></a>&emsp;
   <a href="https://www.youtube.com/channel/UC4nDk0V8I1c6m3CIo0F2LIQ"><img src="https://img.shields.io/badge/youtube-%E6%B2%B9%E7%AE%A1-c32136"></a>&emsp;
