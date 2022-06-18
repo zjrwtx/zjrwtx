@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=zjrwtx&show_icons=true)     <img src="https://github-readme-streak-stats.herokuapp.com/?user=zjrwtx" />
 
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=zjrwtx&theme=xcode" /> </div>
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sun0225SUN" /> </div>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=zjrwtx" /> </div>
