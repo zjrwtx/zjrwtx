@@ -29,7 +29,7 @@
 
 <p>✍️&nbsp;&nbsp;大家好，我是一个一点也不正经的大冤种医学生，希望和你分享很多我的宝藏东西！！！</p>
 <p>&emsp;&emsp;想要好好学习、好好锻炼身体、好好设计和开发产品</p>
-<p>&emsp;&emsp;梦想是一人一车走遍天下</p>
+<p>&emsp;&emsp;梦想是一人一车游遍天下！！！</p>
 <p>&emsp;&emsp;</p>
 
 <!-- 比较好的开源项目卡片 -->
@@ -86,7 +86,7 @@
 
 
 <!-- GitHub奖杯🏆 -->
-<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
+<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=zjrwtx&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
 <br>
 
 <!-- GitHub数据统计 -->
