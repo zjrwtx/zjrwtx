@@ -1,2 +1,2 @@
 公众号：正经人王同学
-小译AI官网：https://xiaoyisenior.top
+正经人王同学的AI实验室：https://xiaoyisenior.top
