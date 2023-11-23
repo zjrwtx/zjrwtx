@@ -9,7 +9,7 @@
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
 </h2>
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
+<h2 align="left">我的开源项目</h2>
 <p align="left">
     <a href="#" target="_blank"> AI证件照生成 </a>
   </p>
