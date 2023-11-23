@@ -17,12 +17,10 @@
 <h2 align="left">👨🏻‍💻 关于我:</h2>
 
 - :computer: 搞搞高性能计算||机器编译||GPU芯片
-- :hourglass_flowing_sand: 喜欢loopy
+- :hourglass_flowing_sand: 喜欢loopy 想实现AGI
 - :rocket: 正经人王同学techstudio创始人
 
 - :zap: 微信：agi_isallyouneed<br>
 
-
-<h2 align="left">自由无法描述</h2>
 
 
