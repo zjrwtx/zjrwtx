@@ -23,7 +23,8 @@
 
 [![正经人王同学's GitHub stats](https://github-readme-stats.vercel.app/api?username=zjrwtx&show_icons=true&theme=radical)](#)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&repo=AIgene_identitification)](https://github.com/zjrwtx/AIgene_identitification)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=AIgene_identitification)](https://github.com/zjrwtx/AIgene_identitification)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&repo=videotopdf_ui )](https://github.com/zjrwtx/videotopdf_ui)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&repo=AIgene_identitification)](https://github.com/zjrwtx/AIgene_identitification)
