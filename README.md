@@ -3,7 +3,7 @@
 <h2 align="left">👨🏻‍💻 关于我:</h2>
 
 - :computer: 搞搞高性能计算||机器编译||GPU芯片
-- :hourglass_flowing_sand: 喜欢loopy 想实现AGI
+- :hourglass_flowing_sand: 喜欢loopy 想实现AGI 不给自己设限
 - :rocket: 正经人王同学techstudio创始人
 
 - :zap: 微信：agi_isallyouneed<br>
