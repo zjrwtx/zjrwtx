@@ -17,7 +17,7 @@
 <h2 align="left">👨🏻‍💻 关于我:</h2>
 
 - :computer: 高性能计算||机器编译||GPU芯片
-- :hourglass_flowing_sand: 热爱与时间会证明一切
+- :hourglass_flowing_sand: 喜欢loopy
 - :rocket: 正经人王同学techstudio创始人
 
 - :zap: 微信：agi_isallyouneed<br>
