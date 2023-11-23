@@ -29,7 +29,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=xiaoyiseniorpro)](https://github.com/zjrwtx/xiaoyiseniorpro)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=xiaoyivipvideo)](https://github.com/zjrwtx/xiaoyivipvideo)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=AIgene_identitification)](https://github.com/zjrwtx/AIgene_identitification)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=xiaoiyisenior_huggingface)](https://github.com/zjrwtx/xiaoiyisenior_huggingface)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=htmltotext )](https://github.com/zjrwtx/AIgene_identitification)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=AIgene_identitification)](https://github.com/zjrwtx/AIgene_identitification)
