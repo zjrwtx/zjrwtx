@@ -37,3 +37,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=htmltotext)](https://github.com/zjrwtx/htmltotext)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=gifcompression)](https://github.com/zjrwtx/gifcompression)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=auto_summarize)](https://github.com/zjrwtx/auto_summarize)
