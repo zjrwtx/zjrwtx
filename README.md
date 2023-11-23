@@ -33,6 +33,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=awesome_design)](https://github.com/zjrwtx/awesome_design)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=AIgene_identitification)](https://github.com/zjrwtx/AIgene_identitification)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=xiaoyivipvideo)](https://github.com/zjrwtx/xiaoyivipvideo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=newbingimage)](https://github.com/zjrwtx/newbingimage)
 
 
