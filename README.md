@@ -13,7 +13,7 @@
 
 <h2 align="left">我的开源项目</h2>
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <p align="left">
     <a href="#" target="_blank"> AI证件照生成 </a>
   </p>
