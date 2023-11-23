@@ -9,8 +9,9 @@
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
 </h2>
-<h2 align="left">我的开源项目</h2>
 [![正经人王同学's GitHub stats](https://github-readme-stats.vercel.app/api?username=zjrwtx)](https://github.com/anuraghazra/github-readme-stats)
+
+<h2 align="left">我的开源项目</h2>
 
 
 <p align="left">
