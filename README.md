@@ -3,7 +3,7 @@
 <h2 align="left">👨🏻‍💻 关于我:</h2>
 
 
-- :rocket: 正经人王同学techstudio创始人
+- :rocket: 谨言慎行AILab founder and CTO
 
 - :zap: 微信：agi_isallyouneed<br>
 
