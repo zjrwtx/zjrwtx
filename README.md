@@ -24,24 +24,7 @@
 [![正经人王同学's GitHub stats](https://github-readme-stats.vercel.app/api?username=zjrwtx&show_icons=true&theme=radical)](#)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=AIgene_anki )](https://github.com/zjrwtx/AIgene_anki)
-
-
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=videotopdf_ui )](https://github.com/zjrwtx/videotopdf_ui)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=open_summary )](https://github.com/zjrwtx/open_summary)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=aigene_identification)](https://github.com/zjrwtx/aigene_identification)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=xiaoyiseniorpro)](https://github.com/zjrwtx/xiaoyiseniorpro)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=xiaoyivipvideo)](https://github.com/zjrwtx/xiaoyivipvideo)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=xiaoiyisenior_huggingface)](https://github.com/zjrwtx/xiaoiyisenior_huggingface)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=awesome_design)](https://github.com/zjrwtx/awesome_design)
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=newbingimage)](https://github.com/zjrwtx/newbingimage)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=htmltotext)](https://github.com/zjrwtx/htmltotext)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=gifcompression)](https://github.com/zjrwtx/gifcompression)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=auto_summarize)](https://github.com/zjrwtx/auto_summarize)
