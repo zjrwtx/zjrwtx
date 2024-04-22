@@ -3,7 +3,7 @@
 <h2 align="left">👨🏻‍💻 关于我:</h2>
 
 
-- :rocket: 谨言慎行AILab founder and CTO
+- :rocket: 某AILab founder and CTO
 
 - :zap: 微信：agi_isallyouneed<br>
 
