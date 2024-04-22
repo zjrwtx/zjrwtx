@@ -12,8 +12,7 @@
   <br>公众号：正经人王同学<br>
 
   
-  <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+ 
  </abc>
 </h2>
 
