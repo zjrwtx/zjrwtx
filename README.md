@@ -19,6 +19,8 @@
 
 
 <h2 align="left">我的开源项目</h2>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=AIgene_anki )](https://github.com/zjrwtx/AIgene_anki)
+
 
 [![正经人王同学's GitHub stats](https://github-readme-stats.vercel.app/api?username=zjrwtx&show_icons=true&theme=radical)](#)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=videotopdf_ui )](https://github.com/zjrwtx/videotopdf_ui)
