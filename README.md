@@ -6,6 +6,7 @@
 - :rocket: 某AILab founder and CTO
 
 - :zap: 微信：agi_isallyouneed<br>
+- :zap: x（twitter）：https://twitter.com/zjrwtx<br>
 
 <h2 align="left">
  <abc>
