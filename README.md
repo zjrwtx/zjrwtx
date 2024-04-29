@@ -3,7 +3,7 @@
 <h2 align="left">👨🏻‍💻 关于我:</h2>
 
 
-- :rocket: 某AILab founder and CTO
+- :rocket: 某AI Lab Founder & CTO | 微信公众号: 正经人王同学 | 探索AI合成数据系统中，也正在寻求直博机会。CV及项目一览：https://github.com/zjrwtx
 
 - :zap: 微信：agi_isallyouneed<br>
 - :zap: x（twitter）：https://twitter.com/zjrwtx<br>
