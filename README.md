@@ -26,6 +26,7 @@
 [![正经人王同学's GitHub stats](https://github-readme-stats.vercel.app/api?username=zjrwtx&show_icons=true&theme=radical)](#)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=VideoQA_databuilder )](https://github.com/zjrwtx/VideoQA_databuilder)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=littlenotenotes )](https://github.com/zjrwtx/littlenotenotes)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=bilibiliQA_databuilder )](https://github.com/zjrwtx/bilibiliQA_databuilder)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=WebQuestions_databuilder )](https://github.com/zjrwtx/WebQuestions_databuilder)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=preference_databuilder )](https://github.com/zjrwtx/preference_databuilder)
