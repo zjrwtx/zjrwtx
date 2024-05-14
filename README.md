@@ -13,8 +13,8 @@
 
 <h2 align="left">
  <abc>
-  <br>微信公众号：正经人王同学<br>
-<h2 align="left">😀一些应用产品：</h2>
+  <br>✨微信公众号：正经人王同学<br>
+<h2 align="left">😀🤩一些应用产品：</h2>
 - :zap:小纸条笔记：发一个链接即可轻松生成对应的内容笔记！支持公众号、知乎、bilibili、youtube、论文等内容笔记生成<br>
 https://github.com/zjrwtx/littlenotenotes
 
