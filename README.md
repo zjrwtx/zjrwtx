@@ -7,7 +7,7 @@ github：https://github.com/zjrwtx
 email：3038880699@qq.com
 x（twitter）：https://x.com/zjrwtx
 </h2>
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username={zjrwtx}&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
+
 
 <h2 align="left">我的开源项目</h2>
 
