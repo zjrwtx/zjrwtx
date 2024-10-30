@@ -10,6 +10,8 @@ x（twitter）：https://x.com/zjrwtx
 
 
 <h2 align="left">我的开源项目</h2>
+![](https://github-readme-stats.vercel.app/api?username=zjrwtxe&show_icons=true&theme=transparent)
+
 
 
 [![正经人王同学's GitHub stats](https://github-readme-stats.vercel.app/api?username=zjrwtx&show_icons=true&theme=radical)](#)
@@ -26,5 +28,8 @@ x（twitter）：https://x.com/zjrwtx
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=AIgene_anki )](https://github.com/zjrwtx/AIgene_anki)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=videotopdf_ui )](https://github.com/zjrwtx/videotopdf_ui)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=open_summary )](https://github.com/zjrwtx/open_summary)
+
+![](https://github-readme-activity-graph.cyclic.app/graph?username=zjrwtx&theme=dracula)
+
 
 
