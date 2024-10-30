@@ -10,7 +10,10 @@ x（twitter）：https://x.com/zjrwtx
 
 
 <h2 align="left">我的开源项目</h2>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zjrwtx)](https://github.com/anuraghazra/github-readme-stats)
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=zjrwtx&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=zjrwtx&theme=radical">
+</p>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=VideoQA_databuilder )](https://github.com/zjrwtx/VideoQA_databuilder)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=open_handwritingai )](https://github.com/zjrwtx/open_handwritingai)
