@@ -1,6 +1,6 @@
 
 
-<h2 align="left">👨🏻‍💻 AGI researcher and AI application developer</h2>
+<h2 align="left">👨🏻‍💻 AGI researcher and ai application developer|全网各平台同名：正经人王同学</h2>
 微信公众号：正经人王同学
 wechat：whatisallineed
 github：https://github.com/zjrwtx
