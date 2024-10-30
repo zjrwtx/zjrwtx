@@ -21,6 +21,7 @@ x（twitter）：https://x.com/zjrwtx
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=yourmemory_v1 )](https://github.com/zjrwtx/yourmemory_v1)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=jwtdemo )](https://github.com/zjrwtx/jwtdemo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=Pass_the_exam )](https://github.com/zjrwtx/Pass_the_exam)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=smu-gdmu-igem-wiki )](https://github.com/zjrwtx/smu-gdmu-igem-wiki)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=littlenotenotes )](https://github.com/zjrwtx/littlenotenotes)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=bilibiliQA_databuilder )](https://github.com/zjrwtx/bilibiliQA_databuilder)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=WebQuestions_databuilder )](https://github.com/zjrwtx/WebQuestions_databuilder)
