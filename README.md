@@ -10,11 +10,10 @@ x（twitter）：https://x.com/zjrwtx
 
 
 <h2 align="left">我的开源项目</h2>
-
-
-
-
 [![正经人王同学's GitHub stats](https://github-readme-stats.vercel.app/api?username=zjrwtx&show_icons=true&theme=radical)](#)
+
+
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=VideoQA_databuilder )](https://github.com/zjrwtx/VideoQA_databuilder)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=open_handwritingai )](https://github.com/zjrwtx/open_handwritingai)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=AIgene_anki )](https://github.com/zjrwtx/AIgene_anki)
