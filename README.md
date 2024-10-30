@@ -7,10 +7,10 @@ github：https://github.com/zjrwtx
 email：3038880699@qq.com
 x（twitter）：https://x.com/zjrwtx
 </h2>
-
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username={zjrwtx}&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
 
 <h2 align="left">我的开源项目</h2>
-![](https://github-readme-stats.vercel.app/api?username=zjrwtxe&show_icons=true&theme=transparent)
+
 
 
 
@@ -29,7 +29,7 @@ x（twitter）：https://x.com/zjrwtx
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=videotopdf_ui )](https://github.com/zjrwtx/videotopdf_ui)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=open_summary )](https://github.com/zjrwtx/open_summary)
 
-![](https://github-readme-activity-graph.cyclic.app/graph?username=zjrwtx&theme=dracula)
+
 
 
 
