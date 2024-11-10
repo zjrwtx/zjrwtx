@@ -75,14 +75,14 @@
     </td>
       <td align="center">
       <a href="https://github.com/zjrwtx/preference_databuilder">
-        <img src="https://img.shields.io/badge/-Multimodal_Agent-2ECC71?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-preference_databuilder-2ECC71?style=flat-square&logo=python&logoColor=white"/>
         <br />大模型RLHF（ppo奖励模型）训练偏好数据排序助手（支持ollama本地模型）
       </a>
     </td>
     </td>
       <td align="center">
       <a href="https://github.com/zjrwtx/videotopdf_ui">
-        <img src="https://img.shields.io/badge/-Multimodal_Agent-2ECC71?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-videotopdf_ui-2ECC71?style=flat-square&logo=python&logoColor=white"/>
         <br />视频转图文并茂的pdf—loopytransform：打工人（会议记录）和学生党（网课笔记）等必备！
       </a>
     </td>
@@ -106,31 +106,31 @@
     </td>
      <td align="center">
       <a href="https://github.com/zjrwtx/Yijian-A1robot">
-        <img src="https://img.shields.io/badge/-Yijian_Agent-E74C3C?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-Yijian-A1robot-E74C3C?style=flat-square&logo=python&logoColor=white"/>
         <br />全球首个用于医院检验科的企业级开源AI机器人解决方案
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/zjrwtx/AIgene_anki">
-        <img src="https://img.shields.io/badge/-Handwriting_AI-F1C40F?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-AIgene_anki-F1C40F?style=flat-square&logo=python&logoColor=white"/>
         <br />基于零一万物等AI视觉大模型简单几步就能批量生成Anki图片笔记
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/zjrwtx/jwtdemo">
-        <img src="https://img.shields.io/badge/-AIgene_Anki-16A085?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-不挂科AI前端-16A085?style=flat-square&logo=python&logoColor=white"/>
         <br />不挂科AI前端：这是一个基于React的Web应用程序，为学生们提供各种AI驱动的功能，如题目生成、试卷生成、思维导图生成、视频转PDF、笔记生成、社区分享等。该应用程序旨在帮助学生更有效地学习和准备考试。
       </a>
     </td>
       <td align="center">
       <a href="https://github.com/zjrwtx/Pass_the_exam">
-        <img src="https://img.shields.io/badge/-AIgene_Anki-16A085?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-不挂科AI后端-16A085?style=flat-square&logo=python&logoColor=white"/>
         <br />不挂科AI后端：不挂科AI后端是一个基于FastAPI框架构建的Web应用程序，旨在为用户提供一系列智能化的服务，包括视频转PPT、PPT转PDF、PDF和PPT内容解析、考试重点大纲生成、出题、思维导图生成等功能。该后端服务使用了多种Python库，如FastAPI、PyPDF2、python-pptx、sqlalchemy、pydantic、passlib、python-jose、python-dotenv、requests、pymysql、scikit-image、opencv-python、imutils和img2pdf等
       </a>
     </td>
       <td align="center">
       <a href="https://github.com/zjrwtx/yourmemory_v1">
-        <img src="https://img.shields.io/badge/-AIgene_Anki-16A085?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-Yourmemory-16A085?style=flat-square&logo=python&logoColor=white"/>
         <br />Yourmemory：这是一个基于 React 的 Web 应用程序，旨在帮助用户记录和记住他们的记忆。用户可以通过与 AI 助手进行对话来分享他们的记忆，并获取有关如何更好地管理和组织记忆的建议。 功能 用户可以与 AI 助手进行对话，分享他们的记忆。 AI 助手会根据用户的输入提供个性化的建议和反馈。 用户可以添加新的任务和标签，以便更好地管理和组织他们的记忆。 应用程序支持深色模式和浅色模式，以满足用户的不同需求。
       </a>
     </td>
