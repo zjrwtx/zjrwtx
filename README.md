@@ -10,6 +10,11 @@
   <a href="https://x.com/zjrwtx"><img src="https://img.shields.io/badge/Twitter-ffffff?style=for-the-badge&logo=twitter&logoColor=black"/></a>
   <a href="mailto:3038880699@qq.com"><img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=black"/></a>
   <a href="https://github.com/zjrwtx"><img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black"/></a>
+  <a href="https://mp.weixin.qq.com/s/iHMUPWsXQjUfImx-oCu53Q">微信公众号:正经人王同学</a>
+  <a href="https://www.zhihu.com/people/30-95-6-63">知乎:正经人王同学</a>
+  <a href="https://x.com/zjrwtx">微信：whatisallineed</a>
+  
+  
 </p>
 
 [![GitHub followers](https://img.shields.io/github/followers/zjrwtx?style=social)](https://github.com/zjrwtx)
@@ -19,13 +24,13 @@
 
 ## 🎯 关于我 | About Me 
 
-> "探索 AGI 的无限可能，打造改变世界的 AI 产品"
+> "less is more"
 
-- 🔭 正在从事 AGI 研究与开发
-- 🚀 致力于开发创新的 AI 应用
-- 🌱 持续学习最新的 AI 技术
+- 🔭 正在从事多模态数据合成的研究
+- 🚀 准备做几个面向大学生的AI应用
+- 🌱 是个ENTJ水瓶座的大四在读医学生
 - 👯 寻找 AI 领域的合作机会
-- 🎯 目标：AI Product Manager 职位
+- 🎯 目标：2026年前创办自己的第一家AI应用公司
 
 ## 💻 技术栈 | Tech Stack
 
@@ -52,7 +57,7 @@
 
 ## 🚀 重点项目 | Featured Projects
 
-### 🤖 AI 数据与模型
+### 🤖 捕获月球大模型数据合成、处理、筛选系列（待整合成一体化的低耦合系统）
 <table>
   <tr>
     <td align="center">
@@ -67,6 +72,19 @@
         <br />视频问答数据集构建
       </a>
     </td>
+      <td align="center">
+      <a href="https://github.com/zjrwtx/preference_databuilder">
+        <img src="https://img.shields.io/badge/-Multimodal_Agent-2ECC71?style=flat-square&logo=python&logoColor=white"/>
+        <br />大模型RLHF（ppo奖励模型）训练偏好数据排序助手（支持ollama本地模型）
+      </a>
+    </td>
+    </td>
+      <td align="center">
+      <a href="https://github.com/zjrwtx/videotopdf_ui">
+        <img src="https://img.shields.io/badge/-Multimodal_Agent-2ECC71?style=flat-square&logo=python&logoColor=white"/>
+        <br />视频转图文并茂的pdf—loopytransform：打工人（会议记录）和学生党（网课笔记）等必备！
+      </a>
+    </td>
     <td align="center">
       <a href="https://github.com/zjrwtx/Multimodal-data-factory-agent">
         <img src="https://img.shields.io/badge/-Multimodal_Agent-2ECC71?style=flat-square&logo=python&logoColor=white"/>
@@ -76,25 +94,43 @@
   </tr>
 </table>
 
-### 🎯 AI 应用系统
+### 🎯 AI 应用
 <table>
   <tr>
     <td align="center">
       <a href="https://github.com/zjrwtx/Yijian-Agent">
         <img src="https://img.shields.io/badge/-Yijian_Agent-E74C3C?style=flat-square&logo=python&logoColor=white"/>
-        <br />智能代理系统
+        <br />全球首个开源且用于医院检验科的企业级生产级AI大模型Agent系统
       </a>
     </td>
-    <td align="center">
-      <a href="https://github.com/zjrwtx/open_handwritingai">
-        <img src="https://img.shields.io/badge/-Handwriting_AI-F1C40F?style=flat-square&logo=python&logoColor=white"/>
-        <br />开源手写AI
+     <td align="center">
+      <a href="https://github.com/zjrwtx/Yijian-A1robot">
+        <img src="https://img.shields.io/badge/-Yijian_Agent-E74C3C?style=flat-square&logo=python&logoColor=white"/>
+        <br />全球首个用于医院检验科的企业级开源AI机器人解决方案
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/zjrwtx/AIgene_anki">
+        <img src="https://img.shields.io/badge/-Handwriting_AI-F1C40F?style=flat-square&logo=python&logoColor=white"/>
+        <br />基于零一万物等AI视觉大模型简单几步就能批量生成Anki图片笔记
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/zjrwtx/jwtdemo">
         <img src="https://img.shields.io/badge/-AIgene_Anki-16A085?style=flat-square&logo=python&logoColor=white"/>
-        <br />AI辅助学习
+        <br />不挂科AI前端：这是一个基于React的Web应用程序，为学生们提供各种AI驱动的功能，如题目生成、试卷生成、思维导图生成、视频转PDF、笔记生成、社区分享等。该应用程序旨在帮助学生更有效地学习和准备考试。
+      </a>
+    </td>
+      <td align="center">
+      <a href="https://github.com/zjrwtx/Pass_the_exam">
+        <img src="https://img.shields.io/badge/-AIgene_Anki-16A085?style=flat-square&logo=python&logoColor=white"/>
+        <br />不挂科AI后端：不挂科AI后端是一个基于FastAPI框架构建的Web应用程序，旨在为用户提供一系列智能化的服务，包括视频转PPT、PPT转PDF、PDF和PPT内容解析、考试重点大纲生成、出题、思维导图生成等功能。该后端服务使用了多种Python库，如FastAPI、PyPDF2、python-pptx、sqlalchemy、pydantic、passlib、python-jose、python-dotenv、requests、pymysql、scikit-image、opencv-python、imutils和img2pdf等
+      </a>
+    </td>
+      <td align="center">
+      <a href="https://github.com/zjrwtx/yourmemory_v1">
+        <img src="https://img.shields.io/badge/-AIgene_Anki-16A085?style=flat-square&logo=python&logoColor=white"/>
+        <br />Yourmemory：这是一个基于 React 的 Web 应用程序，旨在帮助用户记录和记住他们的记忆。用户可以通过与 AI 助手进行对话来分享他们的记忆，并获取有关如何更好地管理和组织记忆的建议。 功能 用户可以与 AI 助手进行对话，分享他们的记忆。 AI 助手会根据用户的输入提供个性化的建议和反馈。 用户可以添加新的任务和标签，以便更好地管理和组织他们的记忆。 应用程序支持深色模式和浅色模式，以满足用户的不同需求。
       </a>
     </td>
   </tr>
@@ -114,14 +150,6 @@
 - 🐦 Twitter：[@zjrwtx](https://x.com/zjrwtx)
 - 📫 邮箱：3038880699@qq.com
 
-## 🎯 2024 目标 | Goals
-
-- [ ] 发布 3+ 创新性 AI 开源项目
-- [ ] 构建大规模多模态数据集
-- [ ] 扩展 AI 应用生态系统
-- [ ] 建立 AI 研究社区
-- [ ] 获得 AI Product Manager 职位
-
 ## 📈 贡献时间线 | Contribution Timeline
 ![](https://github-readme-activity-graph.vercel.app/graph?username=zjrwtx&theme=dracula)
 
@@ -133,6 +161,6 @@
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
-*如果您对 AI 产品开发或研究感兴趣，欢迎与我联系！*
+*如果您对 AI 产品开发或研究感兴趣，欢迎与我联系或加入到我的产品开发与算法研究团队中！*
 
 </div>
