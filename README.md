@@ -1,39 +1,46 @@
+<h1 align="center">👋 Hello World, I'm 正经人王同学</h1>
 
-
-<h2 align="left">👨🏻‍💻 AGI researcher and ai application developer|全网各平台同名：正经人王同学||seeking for AI Product Manager job......</h2>
-微信公众号：正经人王同学
-wechat：whatisallineed
-github：https://github.com/zjrwtx
-email：3038880699@qq.com
-x（twitter）：https://x.com/zjrwtx
-</h2>
-
-
-<h2 align="left">我的开源项目</h2>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=zjrwtx&show_icons=true&theme=tokyonight&line_height=36">
-<!--   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=zjrwtx&theme=radical"> -->
+<p align="center">
+  <a href="https://x.com/zjrwtx"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:3038880699@qq.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=zjrwtx&color=brightgreen" alt="访问次数" />
 </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=SFT-data-builder )](https://github.com/zjrwtx/SFT-data-builder)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=VideoQA_databuilder )](https://github.com/zjrwtx/VideoQA_databuilder)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=Multimodal-data-factory-agent )](https://github.com/zjrwtx/Multimodal-data-factory-agent)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=Yijian-Agent )](https://github.com/zjrwtx/Yijian-Agent)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=Yijian-A1robot )](https://github.com/zjrwtx/Yijian-A1robot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=open_handwritingai )](https://github.com/zjrwtx/open_handwritingai)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=AIgene_anki )](https://github.com/zjrwtx/AIgene_anki)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=yourmemory_v1 )](https://github.com/zjrwtx/yourmemory_v1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=jwtdemo )](https://github.com/zjrwtx/jwtdemo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=Pass_the_exam )](https://github.com/zjrwtx/Pass_the_exam)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=smu-gdmu-igem-wiki )](https://github.com/zjrwtx/smu-gdmu-igem-wiki)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=littlenotenotes )](https://github.com/zjrwtx/littlenotenotes)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=bilibiliQA_databuilder )](https://github.com/zjrwtx/bilibiliQA_databuilder)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=WebQuestions_databuilder )](https://github.com/zjrwtx/WebQuestions_databuilder)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=preference_databuilder )](https://github.com/zjrwtx/preference_databuilder)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=videotopdf_ui )](https://github.com/zjrwtx/videotopdf_ui)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zjrwtx&show_icons=true&theme=radical&repo=open_summary )](https://github.com/zjrwtx/open_summary)
+### 👨‍💻 关于我 | About Me
 
+> AGI 研究者 & AI 应用开发者，专注于人工智能产品设计与开发
+> 
+> *Currently seeking AI Product Manager opportunities*
 
+### 🔥 专业领域 | Expertise
 
+- 🤖 AGI 研究与应用开发
+- 🛠️ AI 产品设计与实现
+- 📊 机器学习数据构建
+- 🔄 多模态 AI 系统开发
 
+### 🚀 开源项目亮点 | Featured Projects
 
+#### AI 数据构建工具链
+- **[SFT-data-builder](https://github.com/zjrwtx/SFT-data-builder)** - SFT训练数据构建工具
+- **[VideoQA_databuilder](https://github.com/zjrwtx/VideoQA_databuilder)** - 视频问答数据集构建工具
+- **[Multimodal-data-factory-agent](https://github.com/zjrwtx/Multimodal-data-factory-agent)** - 多模态数据工厂代理
+
+#### AI 应用与系统
+- **[Yijian-Agent](https://github.com/zjrwtx/Yijian-Agent)** - 智能代理系统
+- **[open_handwritingai](https://github.com/zjrwtx/open_handwritingai)** - 开源手写AI项目
+- **[AIgene_anki](https://github.com/zjrwtx/AIgene_anki)** - AI辅助学习工具
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zjrwtx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
+
+### 📫 联系方式 | Contact Me
+- WeChat Official Account: 正经人王同学
+- WeChat: whatisallineed
+- Twitter: [@zjrwtx](https://x.com/zjrwtx)
+- Email: 3038880699@qq.com
+
+---
+
+<p align="center">💡 <i>让我们一起探索 AI 的无限可能</i></p>
