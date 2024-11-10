@@ -10,6 +10,7 @@
   <a href="https://x.com/zjrwtx"><img src="https://img.shields.io/badge/Twitter-ffffff?style=for-the-badge&logo=twitter&logoColor=black"/></a>
   <a href="mailto:3038880699@qq.com"><img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=black"/></a>
   <a href="https://github.com/zjrwtx"><img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black"/></a>
+  <br/>
   <a href="https://mp.weixin.qq.com/s/iHMUPWsXQjUfImx-oCu53Q">微信公众号:正经人王同学</a>
   <a href="https://www.zhihu.com/people/30-95-6-63">知乎:正经人王同学</a>
   <a href="https://x.com/zjrwtx">微信：whatisallineed</a>
@@ -157,7 +158,7 @@
 
 <div align="center">
   
-### 💡 "用技术改变世界，让 AI 赋能未来"
+### 💡 "less is more"
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
