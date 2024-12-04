@@ -1,7 +1,7 @@
 <div align="center">
   
 # 🌟 Hello World, I'm 正经人王同学
-### AGI Researcher & AI Developer
+### AIgenedata Researcher & AI Developer
 
 ![](https://img.shields.io/badge/Focus-Artificial_General_Intelligence-BE2EDD)
 ![](https://img.shields.io/badge/Role-AI_Product_Manager-20B2AA)
