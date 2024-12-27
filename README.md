@@ -149,6 +149,7 @@
 
 ## 📈 贡献时间线 | Contribution Timeline
 ![](https://github-readme-activity-graph.vercel.app/graph?username=zjrwtx&theme=dracula)
+[![Contributions in 3D](/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/marketplace/actions/github-profile-3d-contrib)
 
 ---
 
@@ -156,8 +157,5 @@
   
 ### 💡 "less is more"
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
-*如果您对 AI 产品开发或研究感兴趣，欢迎与我联系或加入到我的产品开发与算法研究团队中！*
 
 </div>
