@@ -27,7 +27,7 @@
 
 > "less is more"
 
-- 🔭 正在从事多模态数据合成、o3、multi agent、超长上下文的研究
+- 🔭 正在从事多模态数据合成、reasoniing model、multi agent、超长上下文、RL scaling的研究
 - 🌱 是个ENTJ水瓶座的大四在读医学生
 
 ## 💻 技术栈 | Tech Stack
@@ -37,7 +37,7 @@ jupyter、python（flask、fastapi）、golang、react、tailwindcss、typescrip
 
 
 ### 🤖 AI技术栈
-pytorch、huggingface、multi-agent、posttraining、data generation、reasoning model、long contenxt memory......
+pytorch、huggingface、multi-agent、posttraining、data generation、reasoning model、long contenxt memory、RL scaling......
 
 
 ## 🚀 重点项目 | Featured Projects
