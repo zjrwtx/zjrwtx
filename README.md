@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🌟 Hello World, I'm 正经人王同学
+# 🌟 Hello World, I'm Yifeng Wang
 ### AIsyntheticdata Researcher & AI Developer
 
 ![](https://img.shields.io/badge/Focus-Artificial_General_Intelligence-BE2EDD)
@@ -27,7 +27,7 @@
 
 > "less is more"
 
-- 🔭 正在从事多模态数据合成、reasoniing model、multi agent、超长上下文、RL scaling的研究
+- 🔭 正在从事多模态数据合成、reasoning model、multi agent、超长上下文、RL scaling的研究
 - 🌱 是个ENTJ水瓶座的大四在读医学生
 
 ## 💻 技术栈 | Tech Stack
