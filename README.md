@@ -1,10 +1,10 @@
 <div align="center">
   
 # 🌟 Hello World, I'm Yifeng Wang
-### AIsyntheticdata Researcher & AI Developer
+### 
 
 ![](https://img.shields.io/badge/Focus-Artificial_General_Intelligence-BE2EDD)
-![](https://img.shields.io/badge/Role-AI_Product_Manager-20B2AA)
+![](https://img.shields.io/badge/Role-AI_Engineer_Researcher-20B2AA)
 
 <p>
   <a href="https://x.com/zjrwtx"><img src="https://img.shields.io/badge/Twitter-ffffff?style=for-the-badge&logo=twitter&logoColor=black"/></a>
