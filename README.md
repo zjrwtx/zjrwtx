@@ -27,7 +27,7 @@
 
 > "less is more"
 
-- 🔭 正在从事多模态数据合成、reasoning model、multi agent的一些天马行空的思考与coding
+- 🔭 正在从事数据合成、reasoning model、multi agent的一些天马行空的思考与coding
 - 🌱 是个ENTJ水瓶座的大四在读医学生
 
 ## 💻 技术栈 | Tech Stack
