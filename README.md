@@ -82,18 +82,7 @@ pytorch、huggingface、multi-agent、posttraining、data generation、reasoning
 ### 🎯 AI 应用
 <table>
   <tr>
-    <td align="center">
-      <a href="https://github.com/zjrwtx/Yijian-Agent">
-        <img src="https://img.shields.io/badge/-Yijian_Agent-E74C3C?style=flat-square&logo=python&logoColor=white"/>
-        <br />全球首个开源且用于医院检验科的企业级生产级AI大模型Agent系统
-      </a>
-    </td>
-     <td align="center">
-      <a href="https://github.com/zjrwtx/Yijian-A1robot">
-        <img src="https://img.shields.io/badge/-Yijian-A1robot-E74C3C?style=flat-square&logo=python&logoColor=white"/>
-        <br />全球首个用于医院检验科的企业级开源AI机器人解决方案
-      </a>
-    </td>
+   
     <td align="center">
       <a href="https://github.com/zjrwtx/AIgene_anki">
         <img src="https://img.shields.io/badge/-AIgene_anki-F1C40F?style=flat-square&logo=python&logoColor=white"/>
