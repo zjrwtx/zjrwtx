@@ -2,9 +2,8 @@
 
 # Yifeng Wang
 
-> "seeking for AI agent or product full time position"
 
-<p>AI Engineer & Researcher | Medical Student</p>
+<p>seeking for AI agent or product full time positiont</p>
 
 <br>
 
