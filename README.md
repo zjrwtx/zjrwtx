@@ -2,7 +2,7 @@
 
 # Yifeng Wang
 
-> "less is more"
+> "seeking for AI agent or product full time position"
 
 <p>AI Engineer & Researcher | Medical Student</p>
 
