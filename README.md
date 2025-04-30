@@ -3,7 +3,7 @@
 # Yifeng Wang
 
 
-<p>seeking for AI agent or product full time positiont</p>
+<p>seeking for AI agent or product full time position</p>
 
 <br>
 
