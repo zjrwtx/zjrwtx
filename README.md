@@ -23,7 +23,7 @@
 
 ## About Me
 
-Currently exploring data synthesis, reasoning models, and multi-agent systems. Fourth-year medical student with an ENTJ personality and Aquarius zodiac sign.
+Currently exploring RL agent, data synthesis, reasoning models, and multi-agent systems. Fourth-year medical student with an ENTJ personality and Aquarius zodiac sign.
 
 ## Technology Stack
 
@@ -31,7 +31,7 @@ Currently exploring data synthesis, reasoning models, and multi-agent systems. F
 `Python` `Flask` `FastAPI` `Golang` `React` `Tailwind CSS` `TypeScript` `Vite` `UniApp` `Taro` `Git` `Docker` `Kubernetes`
 
 ### Artificial Intelligence
-`PyTorch` `Hugging Face` `Multi-Agent Systems` `Post-Training` `Data Generation` `Reasoning Models` `Long Context Memory` `RL Scaling`
+`PyTorch` `Hugging Face` `Multi-Agent Systems`  `Data Generation` `Reasoning Models training` `Long Context Memory` `RL Scaling`
 
 ## Featured Projects
 
