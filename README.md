@@ -3,7 +3,7 @@
 # Yifeng Wang
 
 
-<p>seeking for AI agent or product full time position</p>
+<p>will setup my own startup</p>
 
 <br>
 
