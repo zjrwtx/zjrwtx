@@ -3,8 +3,6 @@
 # Yifeng Wang
 
 
-<p>founder of keran可燃</p>
-
 <br>
 
 <p>
