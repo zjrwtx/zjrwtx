@@ -20,7 +20,7 @@
 
 ## About Me
 
-Currently exploring RL agent, data synthesis, reasoning models, and multi-agent systems. Fourth-year medical student with an ENTJ personality and Aquarius zodiac sign.
+Currently exploring RL agent, data synthesis, reasoning models, and multi-agent systems. medical student with an ENTJ personality and Aquarius zodiac sign.
 
 ## Technology Stack
 
