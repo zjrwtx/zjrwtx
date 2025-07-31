@@ -3,6 +3,12 @@
 # Yifeng Wang
 
 <br>
+## Connect
+
+- WeChat Official: 正经人王同学
+- WeChat: whatisallineed
+- Twitter: [@zjrwtx](https://x.com/zjrwtx)
+
 
 <p>
   <a href="https://x.com/zjrwtx"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white"/></a>
@@ -18,17 +24,6 @@
 
 </div>
 
-## About Me
-
-Currently exploring RL agent, data synthesis, reasoning models, and multi-agent systems. medical student with an ENTJ personality and Aquarius zodiac sign.
-
-## Technology Stack
-
-### Development
-`Python` `Flask` `FastAPI` `Golang` `React` `Tailwind CSS` `TypeScript` `Vite` `UniApp` `Taro` `Git` `Docker` `Kubernetes`
-
-### Artificial Intelligence
-`PyTorch` `Hugging Face` `Multi-Agent Systems`  `Data Generation` `Reasoning Models training` `Long Context Memory` `RL Scaling`
 
 ## Featured Projects
 
@@ -106,12 +101,7 @@ Currently exploring RL agent, data synthesis, reasoning models, and multi-agent 
   </tr>
 </table>
 
-## Connect
 
-- WeChat Official: 正经人王同学
-- WeChat: whatisallineed
-- Twitter: [@zjrwtx](https://x.com/zjrwtx)
-- Email: 3038880699@qq.com
 
 <br>
 
