@@ -2,7 +2,7 @@
 
 # Yifeng Wang
 
-<br>
+
 ## Connect
 
 - WeChat Official: 正经人王同学
