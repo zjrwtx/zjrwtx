@@ -1,6 +1,6 @@
 I am focusing on Multi-agent framework、synthetic data、RL.
 
-I am working at one bigtech in china,previous CAMEL-AI,EigentAI
+I am working at one bigtech in china,prev CAMEL-AI,EigentAI
 
 I am a medical undergraduate student graduating in 2025-7.
 
