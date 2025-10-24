@@ -1,4 +1,4 @@
-I am working at Tencent，previous CAMEL-AI、EigentAI .
+I am focusing on Multi-agent framework、synthetic data、RL.
 
 I am a medical undergraduate student graduating in 2025-7.
 
