@@ -7,6 +7,8 @@ And I once participated in a project :[Eigent](https://github.com/eigent-ai/eige
 
 and I am currently doing a side project called [wise-will-agent](https://github.com/zjrwtx/Wise-Will-agent),which focus on the AI education platform.
 
+my googe scholar https://scholar.google.com/citations?hl=en&user=glcqfZUAAAAJ
+
 I am a medical undergraduate student graduating in 2025-7.
 
 But I have already switched from medicine to the research of AGI.Just for love of AGI.
