@@ -7,7 +7,7 @@ And I once participated in a project :[Eigent](https://github.com/eigent-ai/eige
 
 and I am currently doing a side project called [wise-will-agent](https://github.com/zjrwtx/Wise-Will-agent),which focus on the AI education platform.
 
-My google scholar https://scholar.google.com/citations?hl=en&user=glcqfZUAAAAJ.some new paper will be released soon
+My google scholar https://scholar.google.com/citations?hl=en&user=glcqfZUAAAAJ.   some new paper will be released soon
 
 I am a medical undergraduate student graduating in 2025-7.
 
