@@ -2,7 +2,7 @@ I am focusing on Multi-agent framework、synthetic data、RL.
 
 I am working at one bigtech in china,ex CAMEL-AI,EigentAI
 
-I use to the core contributor of [https://github.com/camel-ai/camel](CAMEL) agent framework
+I use to the core contributor of [CAMEL](https://github.com/camel-ai/camel) agent framework
 
 I am a medical undergraduate student graduating in 2025-7.
 
