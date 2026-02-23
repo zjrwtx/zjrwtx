@@ -1,4 +1,4 @@
-I am focusing on Multi-agent framework、synthetic data、RL.
+I am focusing on Multi-agent framework、synthetic data.
 
 I am working at one bigtech in china,ex CAMEL-AI,EigentAI
 
