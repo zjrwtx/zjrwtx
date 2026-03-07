@@ -1,5 +1,3 @@
-I am focusing on Multi-agent framework、synthetic data.
-
 I am working at one bigtech in china,ex CAMEL-AI,EigentAI
 
 I used to the core contributor of [CAMEL](https://github.com/camel-ai/camel) agent framework、[OWL](https://github.com/camel-ai/owl) agent framework、[Loong](https://github.com/camel-ai/loong) data generation project. 
