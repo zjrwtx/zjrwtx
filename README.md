@@ -1,2 +1,2 @@
-Building https://github.com/SeekingX-AILab
+Building SeekingX-AILab https://github.com/SeekingX-AILab  opensource agent product and infra community
 
